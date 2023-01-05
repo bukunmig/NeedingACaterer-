@@ -7,7 +7,8 @@ This is only for catering related or private chef orders.
 
 ## Technologies
 - Front-end : TypeScript, REACT
-- Back-end: 
+- Back-end: python microframework Flask
+- Google MAPS API to mark chef's location 
 
 ## Installation
 
