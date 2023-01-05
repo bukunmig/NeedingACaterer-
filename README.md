@@ -1,4 +1,4 @@
-# NeedingACaterer-
+# NeedingACaterer
 
 Early career chefs and especially those who specialize in ethnic cuisine (etc. African, caribbean, Asian) often have a hard time breaking into the hospitality business. 
 There are aspiring chefs who want to reach customers but don't have a platform to do so.
